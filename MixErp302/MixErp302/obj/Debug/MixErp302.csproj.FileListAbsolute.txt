@@ -1,0 +1,83 @@
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.csprojAssemblyReference.cache
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.Properties.Resources.resources
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.GenerateResource.cache
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.CoreCompileInputs.cache
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\bin\Debug\MixErp302.exe.config
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\bin\Debug\MixErp302.exe
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\bin\Debug\MixErp302.pdb
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.exe
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.pdb
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.frmAnaSayfa.resources
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\bin\Debug\EntityFramework.dll
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\bin\Debug\EntityFramework.xml
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.CopyComplete
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.FrmPersonelGiris.resources
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.FrmPersonelCariGiris.resources
+C:\Users\Ogle302\source\repos\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.frmUrunGiris.resources
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.csprojAssemblyReference.cache
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.FrmPersonelCariGiris.resources
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.FrmPersonelGiris.resources
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.frmUrunGiris.resources
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.frmAnaSayfa.resources
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.Properties.Resources.resources
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.Urun.frmUrunAlis.resources
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.GenerateResource.cache
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.CoreCompileInputs.cache
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.exe
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.pdb
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\bin\Debug\MixErp302.exe.config
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\bin\Debug\MixErp302.exe
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\bin\Debug\MixErp302.pdb
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\bin\Debug\EntityFramework.dll
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\bin\Debug\EntityFramework.xml
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.CopyComplete
+C:\Users\ERP-12\Desktop\PROJE-3 ÜRÜNLER\MixErp302\MixErp302\obj\Debug\MixErp302.Urun.frmUrunAlisListe.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\MixErp302.exe.config
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\MixErp302.exe
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\MixErp302.pdb
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\EntityFramework.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\EntityFramework.xml
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.csprojAssemblyReference.cache
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.FrmPersonelCariGiris.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.FrmPersonelGiris.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Bilgi.frmUrunGiris.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.frmAnaSayfa.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Properties.Resources.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Urun.frmUrunAlis.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Urun.frmUrunAlisListe.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.GenerateResource.cache
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.CoreCompileInputs.cache
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.csproj.CopyComplete
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.exe
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.pdb
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.User.frmApGiris.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.User.frmKulGiris.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Urun.frmUrunSatis.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Urun.frmUrunSatisListe.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.ÜRÜN.StokDurumGoster.resources
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\FlashControlV71.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\bin\Debug\stdole.dll
+C:\Users\Erp-12\Desktop\MixErp302\MixErp302\obj\Debug\MixErp302.Print.frmPrint.resources
