@@ -1,0 +1,10 @@
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\bin\Debug\MyeverNote.Common1.dll
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\bin\Debug\MyeverNote.Common1.pdb
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\obj\Debug\MyeverNote.Common.csproj.CoreCompileInputs.cache
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\obj\Debug\MyeverNote.Common1.dll
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\obj\Debug\MyeverNote.Common1.pdb
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\bin\Debug\MyEverNote.Entities.dll
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\bin\Debug\MyEverNote.Entities.pdb
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\bin\Debug\MyEverNote.Entities.dll.config
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\obj\Debug\MyeverNote.Common.csprojAssemblyReference.cache
+C:\Users\Erp-12\source\repos\MyEverNoteSolutıon\MyeverNote.Common1\obj\Debug\MyeverNote.Common.csproj.CopyComplete
